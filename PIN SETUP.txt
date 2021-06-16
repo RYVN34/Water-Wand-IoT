@@ -1,0 +1,13 @@
+HC-SR04:
+Echo - Pin 13//GPIO 27
+Trigger - Pin 15//GPIO 22
+
+DHT-22 Sensor: Pin 7//GPIO 4
+
+LCD: 
+I2C SDA - Pin 3
+I2C SCL - Pin 5
+
+Conductivity Probe:
+I2C SDA - Pin 3
+I2C SCL - Pin 5
